@@ -14,7 +14,7 @@
 
 **Stack:** WordPress with Elementor, Nginx with FastCGI page cache, PHP-FPM 8.2, MySQL 8, AWS EC2 with EBS snapshots and CloudWatch, Docker Compose and WP-CLI for the local clone, Bash and Python for the recovery scripts, photorec for file carving, Wordfence.
 
-**Status:** incident closed in August 2026. The recovered site stays online for the company, a family events business whose technology I run; this is internal work, not a service offered to third parties.
+**Status:** incident closed in August 2026. The recovered site stays online for the company, an events company where I am Head of Technology; this is internal work, not a service offered to third parties.
 
 ## Problem → Solution
 
